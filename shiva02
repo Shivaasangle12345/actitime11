@@ -1,0 +1,9 @@
+all locator
+
+driver.findelement(By.id);
+driver.findelement(By.name);
+driver.findelement(By.tagname);
+driver.findelement(By.linktext);
+driver.findelement(By.partial linktext);
+driver.findelement(By.css);
+driver.findelement(By.xpath);
